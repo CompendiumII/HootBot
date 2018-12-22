@@ -1,0 +1,11 @@
+{
+  "name": "HootBot",
+  "version": "1.0.0",
+  "description": "Wakes you up at night",
+  "main": "bot.js",
+  "author": "Compendium",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
